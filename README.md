@@ -13,4 +13,8 @@ Each file usually includes:
 
 The purpose of this repository is to:
 - Practice **algorithms** and **data structures**  
-- Improve **problem-solving speed and accuracy**  
+- Improve **problem-solving speed and accuracy**
+
+---
+
+✍️ *This repository is mainly for learning and personal reference.*  
